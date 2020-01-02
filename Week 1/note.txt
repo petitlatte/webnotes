@@ -1,2 +1,18 @@
-Test
-Test 2
+Git hub commands
+
+git init
+git add --all
+git commit -m "add comment here"
+git push 
+
+or if first update
+
+git add --all
+git commit -m "add comment here"
+git remote add origin urlofrepo
+git push -u origin master
+
+
+Plan: 
+30 minutes of coding every day
+Have a goal
