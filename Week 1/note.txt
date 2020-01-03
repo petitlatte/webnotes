@@ -13,6 +13,13 @@ git remote add origin urlofrepo
 git push -u origin master
 
 
-Plan: 
-30 minutes of coding every day
-Have a goal
+
+git status -  to see which files git recognizes (need to add "git add" command to update any new changes) 
+
+pull request - can review before pushing the changes onto the main branch
+
+
+
+Reference websites 
+
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
