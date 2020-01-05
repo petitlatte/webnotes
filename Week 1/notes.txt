@@ -23,3 +23,4 @@ pull request - can review before pushing the changes onto the main branch
 Reference websites 
 
 https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+https://www.freecodecamp.org/news/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f/
