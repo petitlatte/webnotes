@@ -9,3 +9,7 @@ https://unsplash.com/
 free font/icons
 
 https://fontawesome.com/
+
+Hosted Libraries
+
+https://developers.google.com/speed/libraries/
