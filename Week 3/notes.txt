@@ -1,4 +1,4 @@
-Workflow: 
+Basic workflow: 
 
 1. Have a design brief ready. 
 2. Research/competitor research, have ideal target market pin pointed. 
@@ -7,4 +7,15 @@ Workflow:
 5. A/B testing (find software/programme where testing can be done online)
 6. Feedback, revisit if needed 
 
-7.
+7. Gather data 
+8. Write down psudocode
+9. Basic HTML/CSS/JS . Make it responsive
+10. Testing, check console often. Debug 
+11. Present idea/concept to client or tester. Respond to feedback
+12. Final debug, upload project
+
+
+
+Project 1 
+
+Ideal timeframe: 3 weeks
