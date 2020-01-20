@@ -1,1 +1,11 @@
 Flex Box Notes
+
+
+https://codebond.co/tutorial/css/complete-guide-to-flexbox
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+
+use display flex to parent container. This defines the flex container 
+
+ 
