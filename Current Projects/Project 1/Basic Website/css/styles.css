@@ -1,14 +1,24 @@
 body,html{
 	padding:0;
 	margin:0;
-font-family: 'Noto Sans', sans-serif;
+background-color: #d1fa7f;
 }
+
+h2,p{
+	font-family: 'Noto Sans', sans-serif;
+}
+
+h2{
+	font-size: 28px;
+	font-weight: bold;
+}
+
 
 .header{
 	display:flex;
 	align-items:center;
 	justify-content:center;
-background-image:  linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)), url("../img/kakapo.jpg");
+background-image:  linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url("../img/kakapo.jpg");
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -17,13 +27,33 @@ min-height:450px;
 text-align: center;
 }
 
+.container{
+	width:80%;
+	margin-top:30px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
 
 .header h1{
 color:white;
-font-family: helvetica,sans-serif;
+font-family: 'Pacifico', cursive;
 font-size: 8vw;
-font-weight:bold;
 text-shadow: 3px 3px 10px #333333;
 }
 
 
+/*MOBILE*/
+
+@media (max-width: 767px){
+
+	.header{
+		height:50vh;
+	}
+
+	.header h1{
+		font-size:70px;
+	}
+}
+
+/*TABLET*/
