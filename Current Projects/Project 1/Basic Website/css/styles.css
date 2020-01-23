@@ -42,6 +42,19 @@ font-size: 8vw;
 text-shadow: 3px 3px 10px #333333;
 }
 
+.conD .container{
+	display:flex;
+	justify-content:space-between;
+	color:white;
+	background-color: green;
+	padding:20px;
+	border-radius:10px;
+}
+
+img,.kakapoimg {
+	border-radius: 50%;
+	width:400px;
+}
 
 /*MOBILE*/
 
@@ -54,6 +67,13 @@ text-shadow: 3px 3px 10px #333333;
 	.header h1{
 		font-size:70px;
 	}
+}
+
+
+.inputBox{
+	padding:10px 5px;
+	border-radius:3px;
+	border:none;
 }
 
 /*TABLET*/

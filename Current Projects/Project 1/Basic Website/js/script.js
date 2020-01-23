@@ -1,1 +1,7 @@
-alert ("this works!");
+(function() {
+
+function DonateFunction(){
+
+};
+
+})();
